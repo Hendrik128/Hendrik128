@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Hendrik128
-- 👀 I’m interested in Artificial Intelligence.
+- 👋 Hi, I’m Hendrik Henselmann.
+- 👀 I’m interested in Artificial Intelligence and programming in general.
 - 🌱 I’m currently studying computer science.
