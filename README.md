@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hendrik128
+- 👀 I’m interested in Artificial Intelligence.
+- 🌱 I’m currently studying computer science.
