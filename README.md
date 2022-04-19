@@ -1,6 +1,6 @@
 👋 Hi, I’m Hendrik Henselmann.  
 🌱 I’m currently studying computer science.  
-👀 I have basic knowledge of AI and my interests lie in software engineering in general.  
+👀 I am interested in software engineering and I have basic knowledge of AI.  
 :computer: My programming language skills:
    - C [3]
    - Python [3]
