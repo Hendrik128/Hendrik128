@@ -12,4 +12,4 @@
    - OCaml [1]
 
 [x] : Experience
-&emsp;&emsp;&emsp;&emsp;&emsp;1&ensp;|&ensp;little&emsp;&emsp;2&ensp;|&ensp;not little&emsp;&emsp;3&ensp;|&ensp;a lot
+&emsp;&emsp;&emsp;&emsp;&emsp;1&ensp;|&ensp;beginner&emsp;&emsp;2&ensp;|&ensp;intermediate&emsp;&emsp;3&ensp;|&ensp;advanced
