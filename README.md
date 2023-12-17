@@ -1,5 +1,6 @@
 👋 Hi, I’m Hendrik Henselmann.  
-🌱 I’m currently studying computer science.  
+🌱 I have a bachelor's degree in computer science.
+🌱 I am currently working as a software developer (C++).
 👀 I am interested in software engineering and I have basic knowledge of AI.  
 :computer: My programming language skills:
    - C [3]
