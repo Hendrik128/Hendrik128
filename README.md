@@ -3,10 +3,9 @@
 🌱 I am currently working as a software developer (C++).  
 👀 I am interested in software engineering and I have basic knowledge of AI.  
 :computer: My programming language skills:
-   - C [3]
+   - C/C++ [3]
    - Python [3]
    - Haskell [2]
-   - C++ [2]
    - R [2]
    - C# [2]
    - Javascript [1]
